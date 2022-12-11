@@ -1,5 +1,4 @@
 import string
-from pprint import pprint
 
 with open("input.txt", "r") as f:
 	input = f.read()
